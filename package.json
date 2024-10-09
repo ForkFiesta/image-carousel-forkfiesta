@@ -1,0 +1,12 @@
+{
+  "name": "image-carousel-forkfiesta",
+  "version": "1.0.0",
+  "description": "A simple carousel package that loads images and displays them as a carousel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Raul Resendez <raul.resendez@proton.me>",
+  "license": "MIT"
+}
